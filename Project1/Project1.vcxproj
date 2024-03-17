@@ -131,6 +131,8 @@
     <ClCompile Include="namespace2.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="변수선언 .cpp" />
+    <ClCompile Include="조건4.cpp" />
+    <ClCompile Include="소스5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
