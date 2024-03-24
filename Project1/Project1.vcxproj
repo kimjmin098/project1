@@ -133,6 +133,9 @@
     <ClCompile Include="매개변수7.cpp" />
     <ClCompile Include="매개변수연습7.cpp" />
     <ClCompile Include="변수선언 .cpp" />
+    <ClCompile Include="소스10.cpp" />
+    <ClCompile Include="소스9.cpp" />
+    <ClCompile Include="참조자8.cpp" />
     <ClCompile Include="함수6.cpp" />
     <ClCompile Include="조건4.cpp" />
     <ClCompile Include="소스5.cpp" />
